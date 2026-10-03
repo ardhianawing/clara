@@ -1,0 +1,617 @@
+{
+ "kode": "id",
+ "nama": "Bahasa Indonesia",
+ "ui": {
+  "namaApp": "Clara: Tes Kepribadian",
+  "namaAppDuaBaris": "Clara\nTes Kepribadian",
+  "slogan": "Lima sisi kepribadianmu",
+  "merek": "Clara",
+  "pengaturan": "Pengaturan",
+  "kembali": "Kembali",
+  "bahasa": "Bahasa",
+  "mulaiTes": "Mulai tes",
+  "lihatHasilmu": "Lihat hasilmu",
+  "ulangiTes": "Ulangi tes",
+  "mulaiDariAwal": "Mulai dari awal",
+  "lanjutkanDari": "Lanjutkan dari soal {n}",
+  "babDari": "Bab {a} dari {b}",
+  "terjawabDari": "{a} dari {b} terjawab",
+  "nomorDari": "{a} dari {b}",
+  "angkaPernyataan": "pernyataan",
+  "angkaMenit": "menit",
+  "angkaBab": "bab",
+  "batal": "Batal",
+  "mulaiUlangJudul": "Mulai dari awal?",
+  "mulaiUlangIsi": "Semua jawaban yang sudah kamu isi akan dihapus.",
+  "soalSebelumnya": "Soal sebelumnya",
+  "kemajuan": "Kemajuan tes: {a} dari {b}",
+  "babSelesai": "Bab {n} selesai.",
+  "jedaIsi": "Jawabanmu sudah tersimpan. Kalau mau istirahat, kamu bisa lanjut nanti dari sini.",
+  "lanjutKeBab": "Lanjut ke Bab {n}",
+  "hasilSiap": "Hasilmu sudah siap.",
+  "semuaDihitung": "Semua {n} jawaban sudah dihitung.",
+  "lihatHasil": "Lihat hasil",
+  "hasilKamu": "Hasil kamu",
+  "kamuAdalah": "Kamu adalah",
+  "kekuatan": "Kekuatan",
+  "titikRawan": "Titik rawan",
+  "asalKarakter": "Dari skor {sisi} {skor}, sisi kamu yang paling menonjol.",
+  "asalSeimbang": "Kelima skormu ada di rentang tengah (38–62), tidak ada yang condong kuat.",
+  "limaSisimu": "Lima sisimu",
+  "tingkatRendah": "Rendah",
+  "tingkatSedang": "Sedang",
+  "tingkatTinggi": "Tinggi",
+  "skorSemantik": "{nama}: {skor} dari 100, {tingkat}",
+  "lihatRincian": "Lihat {n} rincian",
+  "tutupRincian": "Tutup rincian",
+  "bagikanStory": "Bagikan ke Story",
+  "ulangiJudul": "Ulangi tes?",
+  "ulangiIsi": "Hasil ini akan dihapus dan kamu mulai lagi dari soal pertama.",
+  "ulangi": "Ulangi",
+  "caraMembaca": "Cara membaca angkanya",
+  "kartuStory": "Kartu Story",
+  "bagikan": "Bagikan",
+  "menyiapkan": "Menyiapkan…",
+  "gagalBagikan": "Kartu belum bisa dibagikan. Coba lagi.",
+  "karakterku": "Karakterku",
+  "ajakan": "Kamu karakter yang mana?",
+  "cariDiPlay": "Cari \"Clara: Tes Kepribadian\" di Play Store",
+  "teksBagikan": "Aku {nama}. Kamu karakter yang mana?",
+  "dukungLabel": "Dukung aplikasi ini",
+  "dukungJudul": "Traktir pembuatnya",
+  "dukungIsi": "Aplikasi ini gratis. Kalau bermanfaat, kamu bisa ikut menanggung biaya pembuatannya. Sukarela, tidak membuka fitur apa pun.",
+  "belumAktif": "Donasi belum aktif di versi uji ini.",
+  "modeTampilan": "Mode tampilan",
+  "ikutiHp": "Ikuti HP",
+  "terang": "Terang",
+  "gelap": "Gelap",
+  "hapusJawaban": "Hapus jawaban",
+  "hapusJawabanKet": "Menghapus semua jawaban dan hasil di HP ini.",
+  "hapusJudul": "Hapus semua jawaban?",
+  "hapusIsi": "Jawaban dan hasil tes di HP ini akan dihapus. Ini tidak bisa dibatalkan.",
+  "hapus": "Hapus",
+  "tentang": "Tentang tes ini",
+  "tentangKet": "Cara kerja tes dan cara skor dihitung.",
+  "privasi": "Kebijakan privasi",
+  "privasiKet": "Apa yang disimpan dan apa yang tidak.",
+  "versi": "Versi {v}",
+  "iklan": "Iklan",
+  "penafian": "Penafian",
+  "penafianKet": "Batasan tes ini dan kapan perlu bantuan profesional.",
+  "penafianSingkat": "Tes ini untuk mengenal diri, bukan diagnosis psikologis.",
+  "sumberIlmiah": "Sumber ilmiah",
+  "sumberIlmiahKet": "Penelitian yang menjadi dasar tes ini."
+ },
+ "daftar": {
+  "petunjuk": [
+   "Jawab sesuai keseharianmu.",
+   "Tidak ada jawaban benar atau salah.",
+   "Jawaban hanya tersimpan di HP ini."
+  ],
+  "sisaBab": [
+   "Tiga bab lagi.",
+   "Dua bab lagi.",
+   "Satu bab lagi."
+  ],
+  "tentang": [
+   "Tes ini mengukur lima sisi kepribadian menurut model Big Five: {sisi}. Tiap sisi punya enam rincian, jadi ada 30 rincian dari {jumlah} pernyataan.",
+   "Untuk tiap pernyataan kamu memilih seberapa sesuai dengan dirimu, dari \"Sangat tidak sesuai\" (1) sampai \"Sangat sesuai\" (5). Sebagian pernyataan dihitung terbalik. Rata-rata jawaban tiap sisi lalu diubah ke angka 0 sampai 100.",
+   "{caraBaca}",
+   "Karakter hasil (misalnya Si Penjelajah) diambil dari sisi yang skornya paling jauh dari 50. Sisi kedua terjauh menjadi sifat tambahan. Kalau semua skor di rentang tengah, karaktermu Si Seimbang.",
+   "{sumber}"
+  ],
+  "privasi": [
+   "Jawaban dan hasil tesmu hanya disimpan di HP ini. Aplikasi ini tidak punya akun, tidak punya server, dan tidak mengirim jawabanmu ke mana pun.",
+   "Kamu bisa menghapus semua jawaban kapan saja lewat Pengaturan, lalu Hapus jawaban. Menghapus aplikasi juga menghapus semuanya.",
+   "Aplikasi ini menampilkan iklan dari Google AdMob. Untuk menampilkan iklan, Google dapat memakai ID iklan perangkat dan data teknis seperti jenis HP dan perkiraan lokasi dari alamat IP. Data ini diatur oleh kebijakan privasi Google, bukan disimpan oleh kami. Kamu bisa mengatur atau mereset ID iklan di Setelan HP, bagian Google, lalu Iklan.",
+   "Kartu Story dibuat di HP ini dan hanya dikirim ke aplikasi yang kamu pilih sendiri saat membagikan."
+  ],
+  "nominal": [
+   "Rp 10.000",
+   "Rp 25.000",
+   "Rp 50.000"
+  ],
+  "penafian": [
+   "Tes ini dibuat untuk mengenal diri. Hasilnya bukan diagnosis psikologis atau medis, dan tidak menggantikan pemeriksaan oleh psikolog atau psikiater.",
+   "Pernyataan versi bahasa Indonesia diterjemahkan sendiri dari butir aslinya dan belum melalui uji validasi ilmiah. Skornya juga bukan perbandingan dengan orang lain (bukan persentil).",
+   "Jangan pakai hasil tes ini untuk keputusan penting tentang orang lain, misalnya menerima atau menolak karyawan, atau menilai pasangan.",
+   "Kalau kamu sedang merasa sangat tertekan, cemas berlebihan, atau terpikir untuk menyakiti diri sendiri, segera bicarakan dengan orang yang kamu percaya atau tenaga profesional. Di Indonesia, layanan konseling kesehatan jiwa bisa dihubungi lewat 119 ekstensi 8."
+  ],
+  "sumberIlmiah": [
+   "Tes ini memakai IPIP-NEO-120: 120 pernyataan berstatus domain publik yang disusun dan diuji oleh John A. Johnson untuk mengukur lima sisi kepribadian beserta 30 rinciannya.",
+   "Pernyataannya diambil dari International Personality Item Pool (IPIP), kumpulan butir tes kepribadian terbuka yang dirintis Lewis R. Goldberg. Pembagian lima sisi dan 30 rinciannya mengikuti Model Lima Faktor dari Paul T. Costa dan Robert R. McCrae.",
+   "Aplikasi ini tidak berafiliasi dengan para peneliti tersebut."
+  ]
+ },
+ "ringkasan": {
+  "semuaTengah": "Semua sisimu ada di tengah. Artinya kamu luwes, tidak condong kuat ke salah satu ujung.",
+  "pola": "Kamu {isi}.",
+  "tinggi": "tinggi di {x}",
+  "rendah": "rendah di {x}",
+  "sedang": "sedang di {x}",
+  "pemisah": "; ",
+  "koma": ", ",
+  "dan": " dan ",
+  "danAkhir": ", dan "
+ },
+ "karakter": {
+  "polaNama": "Si {utama}",
+  "polaNamaLengkap": "Si {utama} {tambahan}",
+  "isi": {
+   "penjelajah": {
+    "nama": "Penjelajah",
+    "tambahan": "yang penuh ide",
+    "inti": "Kamu hidup dari ide baru dan cepat bosan dengan yang itu-itu saja.",
+    "intiAku": "Aku hidup dari ide baru dan cepat bosan dengan yang itu-itu saja.",
+    "kekuatan": [
+     "Kreatif dan banyak ide",
+     "Cepat menangkap hal baru",
+     "Terbuka pada sudut pandang yang berbeda"
+    ],
+    "rawan": [
+     "Gampang bosan dengan tugas rutin",
+     "Ide sering lebih banyak daripada yang sempat dikerjakan"
+    ]
+   },
+   "membumi": {
+    "nama": "Membumi",
+    "tambahan": "yang praktis",
+    "inti": "Kamu memegang yang nyata dan sudah terbukti, bukan yang cuma bagus di angan-angan.",
+    "intiAku": "Aku memegang yang nyata dan sudah terbukti, bukan yang cuma bagus di angan-angan.",
+    "kekuatan": [
+     "Praktis dan langsung ke inti",
+     "Konsisten dengan cara yang terbukti berhasil",
+     "Tidak gampang terbawa tren"
+    ],
+    "rawan": [
+     "Bisa terlihat kaku saat ada cara baru",
+     "Kurang sabar dengan bahasan yang terlalu abstrak"
+    ]
+   },
+   "perencana": {
+    "nama": "Perencana",
+    "tambahan": "yang terencana",
+    "inti": "Kamu suka semuanya jelas: rencananya, jadwalnya, dan siapa mengerjakan apa.",
+    "intiAku": "Aku suka semuanya jelas: rencananya, jadwalnya, dan siapa mengerjakan apa.",
+    "kekuatan": [
+     "Bisa diandalkan menepati janji",
+     "Rapi dan terorganisir",
+     "Tekun menuntaskan yang sudah dimulai"
+    ],
+    "rawan": [
+     "Gelisah kalau rencana berubah mendadak",
+     "Kadang terlalu keras pada diri sendiri"
+    ]
+   },
+   "spontan": {
+    "nama": "Spontan",
+    "tambahan": "yang spontan",
+    "inti": "Kamu paling hidup saat bisa mengikuti arus, bukan jadwal.",
+    "intiAku": "Aku paling hidup saat bisa mengikuti arus, bukan jadwal.",
+    "kekuatan": [
+     "Luwes menghadapi perubahan",
+     "Cepat beradaptasi dengan keadaan",
+     "Santai dan tidak kaku"
+    ],
+    "rawan": [
+     "Tugas rutin dan tenggat gampang tertunda",
+     "Barang dan rencana kadang berantakan"
+    ]
+   },
+   "penghidup-suasana": {
+    "nama": "Penghidup Suasana",
+    "tambahan": "yang ceria",
+    "inti": "Kamu dapat energi dari orang lain, dan suasana jadi ramai kalau kamu datang.",
+    "intiAku": "Aku dapat energi dari orang lain, dan suasana jadi ramai kalau aku datang.",
+    "kekuatan": [
+     "Gampang akrab dengan orang baru",
+     "Berani bicara dan memimpin",
+     "Membawa semangat ke kelompok"
+    ],
+    "rawan": [
+     "Cepat jenuh kalau terlalu lama sendirian",
+     "Kadang bicara dulu, berpikir belakangan"
+    ]
+   },
+   "perenung": {
+    "nama": "Perenung",
+    "tambahan": "yang kalem",
+    "inti": "Kamu mengisi tenaga di tempat yang tenang dan lebih suka obrolan yang dalam.",
+    "intiAku": "Aku mengisi tenaga di tempat yang tenang dan lebih suka obrolan yang dalam.",
+    "kekuatan": [
+     "Pendengar yang baik",
+     "Fokus dan betah bekerja sendiri",
+     "Berpikir matang sebelum bicara"
+    ],
+    "rawan": [
+     "Keramaian yang lama bikin cepat lelah",
+     "Orang baru bisa salah mengira kamu dingin"
+    ]
+   },
+   "penyayang": {
+    "nama": "Penyayang",
+    "tambahan": "yang hangat",
+    "inti": "Kamu peduli pada orang lain dan berusaha menjaga semua orang tetap rukun.",
+    "intiAku": "Aku peduli pada orang lain dan berusaha menjaga semua orang tetap rukun.",
+    "kekuatan": [
+     "Hangat dan gampang dipercaya",
+     "Suka menolong tanpa diminta",
+     "Pandai meredakan suasana tegang"
+    ],
+    "rawan": [
+     "Susah menolak permintaan",
+     "Kebutuhan sendiri sering dinomorduakan"
+    ]
+   },
+   "lugas": {
+    "nama": "Lugas",
+    "tambahan": "yang blak-blakan",
+    "inti": "Kamu bilang apa adanya dan lebih memilih jujur daripada sekadar enak didengar.",
+    "intiAku": "Aku bilang apa adanya dan lebih memilih jujur daripada sekadar enak didengar.",
+    "kekuatan": [
+     "Jujur dan terus terang",
+     "Berani beda pendapat",
+     "Tidak gampang dimanfaatkan orang"
+    ],
+    "rawan": [
+     "Kata-katamu bisa terdengar tajam",
+     "Kadang menang debat tapi hubungan jadi renggang"
+    ]
+   },
+   "peka": {
+    "nama": "Peka",
+    "tambahan": "yang peka",
+    "inti": "Kamu merasakan segalanya dengan kuat, termasuk hal yang orang lain lewatkan.",
+    "intiAku": "Aku merasakan segalanya dengan kuat, termasuk hal yang orang lain lewatkan.",
+    "kekuatan": [
+     "Cepat menangkap perubahan suasana",
+     "Waspada terhadap risiko",
+     "Mudah berempati pada yang sedang susah"
+    ],
+    "rawan": [
+     "Gampang kepikiran dan cemas",
+     "Tekanan terasa lebih berat dan lebih lama"
+    ]
+   },
+   "tenang": {
+    "nama": "Tenang",
+    "tambahan": "yang tahan banting",
+    "inti": "Kamu tetap kalem saat yang lain mulai panik.",
+    "intiAku": "Aku tetap kalem saat yang lain mulai panik.",
+    "kekuatan": [
+     "Stabil di bawah tekanan",
+     "Cepat pulih dari masalah",
+     "Bikin orang di sekitar ikut tenang"
+    ],
+    "rawan": [
+     "Bisa terlihat kurang peduli",
+     "Tanda bahaya kecil kadang terlewat"
+    ]
+   },
+   "seimbang": {
+    "nama": "Seimbang",
+    "tambahan": "yang seimbang",
+    "inti": "Kamu tidak condong ke satu ujung, jadi kamu bisa menyesuaikan diri dengan banyak keadaan.",
+    "intiAku": "Aku tidak condong ke satu ujung, jadi aku bisa menyesuaikan diri dengan banyak keadaan.",
+    "kekuatan": [
+     "Luwes di berbagai situasi",
+     "Gampang memahami orang yang berbeda-beda",
+     "Jarang bertindak ekstrem"
+    ],
+    "rawan": [
+     "Kadang sulit menjelaskan dirimu sendiri",
+     "Bisa ragu memilih sikap yang tegas"
+    ]
+   }
+  }
+ },
+ "tes": {
+  "judul": "Lima sisi kepribadianmu, dibentuk dari 120 jawaban.",
+  "menit": "10–15",
+  "tanya": "Seberapa sesuai pernyataan ini dengan dirimu?",
+  "pilihan": [
+   "Sangat tidak sesuai",
+   "Tidak sesuai",
+   "Netral",
+   "Sesuai",
+   "Sangat sesuai"
+  ],
+  "caraBaca": [
+   "Angka 0 sampai 100 menunjukkan posisimu di skala jawaban: 0 berarti semua jawabanmu di ujung paling rendah, 100 di ujung paling tinggi. Angka ini bukan persentil, jadi 70 tidak berarti kamu lebih tinggi dari 70% orang.",
+   "Di bawah 38 disebut rendah, di atas 62 tinggi, di antaranya sedang. Tidak ada skor yang lebih baik dari yang lain. Tiap posisi punya kelebihan dan titik rawannya sendiri.",
+   "Hasil ini gambaran kecenderungan dari jawabanmu sendiri, bukan diagnosis. Untuk keputusan penting, bicarakan dengan psikolog."
+  ],
+  "sumber": "Butir tes: IPIP-NEO 120 susunan John A. Johnson (2014) dari International Personality Item Pool, berstatus domain publik. Pernyataan diterjemahkan ulang ke bahasa Indonesia.",
+  "grup": [
+   {
+    "nama": "Keterbukaan",
+    "sub": "Openness",
+    "uraian": {
+     "tinggi": "Kamu tertarik pada ide, seni, dan pengalaman baru. Kamu cepat bosan dengan hal yang itu-itu saja dan senang mencoba cara yang belum pernah dipakai.",
+     "sedang": "Kamu terbuka pada hal baru kalau manfaatnya jelas, tapi tetap nyaman dengan cara yang sudah terbukti.",
+     "rendah": "Kamu lebih suka hal yang nyata, praktis, dan sudah teruji. Ide yang terlalu abstrak jarang menarik buatmu."
+    }
+   },
+   {
+    "nama": "Keteraturan",
+    "sub": "Conscientiousness",
+    "uraian": {
+     "tinggi": "Kamu terencana, rapi, dan menuntaskan apa yang kamu mulai. Orang bisa mengandalkan janjimu.",
+     "sedang": "Kamu bisa teratur saat dibutuhkan, tapi tidak kaku. Sebagian hal kamu rencanakan, sebagian kamu biarkan mengalir.",
+     "rendah": "Kamu spontan dan fleksibel. Rencana, kerapian, dan tugas rutin tidak datang dengan sendirinya, jadi tenggat dan pengingat dari luar banyak membantu."
+    }
+   },
+   {
+    "nama": "Ekstraversi",
+    "sub": "Extraversion",
+    "uraian": {
+     "tinggi": "Kamu mendapat energi dari orang lain dan suasana ramai. Kamu gampang memulai obrolan dan senang ikut dalam kegiatan.",
+     "sedang": "Kamu menikmati kebersamaan, tapi juga butuh waktu sendiri. Tergantung suasana dan orangnya.",
+     "rendah": "Kamu mengisi energi dengan menyendiri. Kamu lebih suka obrolan kecil yang dalam daripada keramaian."
+    }
+   },
+   {
+    "nama": "Keramahan",
+    "sub": "Agreeableness",
+    "uraian": {
+     "tinggi": "Kamu hangat, gampang percaya, dan cenderung mengalah demi menjaga hubungan.",
+     "sedang": "Kamu bisa bekerja sama, tapi tetap berani beda pendapat kalau perlu.",
+     "rendah": "Kamu blak-blakan dan skeptis. Kamu lebih mementingkan hasil dan kebenaran daripada menjaga perasaan."
+    }
+   },
+   {
+    "nama": "Kepekaan emosi",
+    "sub": "Neuroticism",
+    "uraian": {
+     "tinggi": "Kamu gampang cemas, kepikiran, atau terbawa suasana hati. Tekanan terasa lebih berat buatmu dibanding kebanyakan orang.",
+     "sedang": "Emosimu naik turun dalam batas wajar. Tekanan besar tetap terasa, tapi biasanya kamu bisa pulih.",
+     "rendah": "Kamu tenang dan susah goyah. Masalah jarang membuatmu kepikiran lama."
+    }
+   }
+  ],
+  "skala": [
+   {
+    "nama": "Imajinasi",
+    "arti": "Seberapa aktif kamu berkhayal dan bermain dengan gagasan."
+   },
+   {
+    "nama": "Minat seni",
+    "arti": "Seberapa besar kamu menghargai seni dan keindahan."
+   },
+   {
+    "nama": "Kedalaman perasaan",
+    "arti": "Seberapa sadar kamu pada emosimu sendiri dan emosi orang lain."
+   },
+   {
+    "nama": "Suka hal baru",
+    "arti": "Seberapa senang kamu pada variasi dan perubahan."
+   },
+   {
+    "nama": "Minat pada gagasan",
+    "arti": "Seberapa suka kamu pada ide abstrak dan bahasan yang rumit."
+   },
+   {
+    "nama": "Keterbukaan nilai",
+    "arti": "Seberapa siap kamu mempertanyakan aturan dan nilai yang sudah umum."
+   },
+   {
+    "nama": "Rasa mampu",
+    "arti": "Seberapa yakin kamu bisa menuntaskan pekerjaan dengan baik."
+   },
+   {
+    "nama": "Kerapian",
+    "arti": "Seberapa rapi kamu menata barang dan tempat."
+   },
+   {
+    "nama": "Taat janji",
+    "arti": "Seberapa teguh kamu memegang janji dan aturan."
+   },
+   {
+    "nama": "Dorongan berprestasi",
+    "arti": "Seberapa keras kamu bekerja melebihi yang diminta."
+   },
+   {
+    "nama": "Disiplin diri",
+    "arti": "Seberapa gampang kamu memulai tugas dan bertahan mengerjakannya."
+   },
+   {
+    "nama": "Kehati-hatian",
+    "arti": "Seberapa matang kamu berpikir sebelum bertindak."
+   },
+   {
+    "nama": "Kehangatan",
+    "arti": "Seberapa gampang kamu akrab dan dekat dengan orang."
+   },
+   {
+    "nama": "Suka keramaian",
+    "arti": "Seberapa senang kamu berada di tengah banyak orang."
+   },
+   {
+    "nama": "Ketegasan",
+    "arti": "Seberapa sering kamu memimpin dan mengambil kendali."
+   },
+   {
+    "nama": "Tingkat kesibukan",
+    "arti": "Seberapa padat dan cepat ritme hidupmu."
+   },
+   {
+    "nama": "Pencarian sensasi",
+    "arti": "Seberapa butuh kamu pada hal yang seru dan menegangkan."
+   },
+   {
+    "nama": "Keceriaan",
+    "arti": "Seberapa sering kamu merasa senang dan optimis."
+   },
+   {
+    "nama": "Rasa percaya",
+    "arti": "Seberapa gampang kamu percaya pada niat baik orang."
+   },
+   {
+    "nama": "Ketulusan",
+    "arti": "Seberapa lurus kamu berurusan dengan orang, tanpa memanfaatkan atau mengakali."
+   },
+   {
+    "nama": "Suka menolong",
+    "arti": "Seberapa peduli dan ringan tangan kamu."
+   },
+   {
+    "nama": "Suka damai",
+    "arti": "Seberapa sering kamu menghindari konflik dan tidak membalas."
+   },
+   {
+    "nama": "Kerendahan hati",
+    "arti": "Seberapa jarang kamu merasa lebih hebat dari orang lain."
+   },
+   {
+    "nama": "Simpati",
+    "arti": "Seberapa tersentuh kamu oleh kesulitan orang lain."
+   },
+   {
+    "nama": "Kecemasan",
+    "arti": "Seberapa sering kamu khawatir dan membayangkan hal buruk."
+   },
+   {
+    "nama": "Kemarahan",
+    "arti": "Seberapa gampang kamu kesal atau marah."
+   },
+   {
+    "nama": "Kemurungan",
+    "arti": "Seberapa sering kamu merasa sedih atau tidak puas dengan diri sendiri."
+   },
+   {
+    "nama": "Rasa canggung",
+    "arti": "Seberapa tidak nyaman kamu di depan orang yang belum dikenal."
+   },
+   {
+    "nama": "Sulit menahan diri",
+    "arti": "Seberapa sulit kamu menolak godaan dan keinginan sesaat."
+   },
+   {
+    "nama": "Rentan tertekan",
+    "arti": "Seberapa gampang kamu panik atau kewalahan saat ditekan."
+   }
+  ],
+  "butir": [
+   "Saya gampang khawatir.",
+   "Saya gampang akrab dengan orang baru.",
+   "Imajinasi saya kuat.",
+   "Saya percaya pada orang lain.",
+   "Saya menyelesaikan tugas dengan baik.",
+   "Saya gampang marah.",
+   "Saya suka acara besar yang ramai.",
+   "Menurut saya seni itu penting.",
+   "Saya memanfaatkan orang lain demi kepentingan sendiri.",
+   "Saya suka beres-beres.",
+   "Saya sering merasa sedih.",
+   "Saya biasa maju memimpin.",
+   "Saya merasakan emosi dengan sangat kuat.",
+   "Saya senang membantu orang lain.",
+   "Saya menepati janji.",
+   "Saya merasa sulit mendekati orang lain.",
+   "Saya selalu sibuk.",
+   "Saya lebih suka variasi daripada rutinitas.",
+   "Saya suka adu mulut yang seru.",
+   "Saya bekerja keras.",
+   "Saya suka kalap: makan, belanja, atau main sampai kebablasan.",
+   "Saya suka hal-hal yang memacu adrenalin.",
+   "Saya suka bacaan yang menantang pikiran.",
+   "Saya merasa lebih baik daripada orang lain.",
+   "Saya selalu punya persiapan.",
+   "Saya gampang panik.",
+   "Saya membawa suasana ceria.",
+   "Saya cenderung memilih calon pemimpin yang membawa pembaruan.",
+   "Saya kasihan melihat orang yang hidup di jalanan.",
+   "Saya langsung terjun tanpa pikir panjang.",
+   "Saya takut hal terburuk akan terjadi.",
+   "Saya nyaman berada di tengah orang-orang.",
+   "Saya menikmati khayalan yang liar.",
+   "Saya percaya orang lain berniat baik.",
+   "Saya jago dalam hal yang saya kerjakan.",
+   "Saya gampang kesal.",
+   "Di acara ramai, saya mengobrol dengan banyak orang.",
+   "Saya melihat keindahan pada hal yang luput dari perhatian orang lain.",
+   "Saya rela curang supaya bisa unggul.",
+   "Saya sering lupa mengembalikan barang ke tempatnya.",
+   "Saya tidak suka dengan diri sendiri.",
+   "Saya berusaha memimpin orang lain.",
+   "Saya ikut merasakan emosi orang lain.",
+   "Saya peduli pada orang lain.",
+   "Saya berkata jujur.",
+   "Saya takut jadi pusat perhatian.",
+   "Saya selalu bergerak, jarang diam.",
+   "Saya lebih suka bertahan dengan hal yang sudah saya kenal.",
+   "Saya membentak orang.",
+   "Saya mengerjakan lebih dari yang diharapkan.",
+   "Saya jarang kebablasan menuruti keinginan.",
+   "Saya suka mencari petualangan.",
+   "Saya menghindari obrolan yang terlalu filosofis.",
+   "Saya bangga sekali pada diri sendiri.",
+   "Saya menjalankan rencana yang sudah saya buat.",
+   "Saya gampang kewalahan menghadapi keadaan.",
+   "Saya sering bersenang-senang.",
+   "Saya percaya tidak ada benar dan salah yang mutlak.",
+   "Saya iba pada orang yang nasibnya kurang beruntung.",
+   "Saya mengambil keputusan dengan gegabah.",
+   "Saya takut pada banyak hal.",
+   "Saya menghindari berurusan dengan orang lain.",
+   "Saya suka melamun.",
+   "Saya percaya pada ucapan orang.",
+   "Saya menangani tugas dengan lancar.",
+   "Emosi saya gampang meledak.",
+   "Saya lebih suka sendirian.",
+   "Saya tidak suka puisi.",
+   "Saya mengambil keuntungan dari orang lain.",
+   "Saya membiarkan kamar berantakan.",
+   "Saya sering merasa terpuruk.",
+   "Saya suka mengatur jalannya suatu urusan.",
+   "Saya jarang menyadari reaksi emosi saya sendiri.",
+   "Saya tidak ambil pusing dengan perasaan orang lain.",
+   "Saya melanggar aturan.",
+   "Saya hanya nyaman kalau bersama teman dekat.",
+   "Saya mengisi waktu luang dengan banyak kegiatan.",
+   "Saya tidak suka perubahan.",
+   "Saya menghina orang.",
+   "Saya bekerja secukupnya, asal beres.",
+   "Saya gampang menahan godaan.",
+   "Saya senang bertindak nekat.",
+   "Saya sulit memahami ide yang abstrak.",
+   "Saya menganggap diri saya hebat.",
+   "Saya membuang-buang waktu.",
+   "Saya merasa tidak sanggup menghadapi masalah.",
+   "Saya sangat menikmati hidup.",
+   "Saya cenderung memilih calon pemimpin yang menjaga tradisi.",
+   "Saya tidak tertarik dengan masalah orang lain.",
+   "Saya terburu-buru dalam bertindak.",
+   "Saya gampang stres.",
+   "Saya menjaga jarak dari orang lain.",
+   "Saya suka tenggelam dalam pikiran sendiri.",
+   "Saya sulit percaya pada orang.",
+   "Saya tahu cara menuntaskan pekerjaan.",
+   "Saya tidak gampang jengkel.",
+   "Saya menghindari keramaian.",
+   "Saya tidak menikmati kunjungan ke museum atau pameran seni.",
+   "Saya menghalangi rencana orang lain.",
+   "Saya menaruh barang sembarangan.",
+   "Saya nyaman dengan diri sendiri.",
+   "Saya menunggu orang lain yang memimpin.",
+   "Saya tidak paham dengan orang yang gampang terbawa perasaan.",
+   "Saya tidak meluangkan waktu untuk orang lain.",
+   "Saya mengingkari janji.",
+   "Saya santai saja di situasi yang canggung.",
+   "Saya suka santai-santai saja.",
+   "Saya berpegang pada cara lama yang sudah umum.",
+   "Saya membalas perlakuan buruk orang lain.",
+   "Saya tidak banyak mencurahkan waktu dan tenaga untuk pekerjaan.",
+   "Saya bisa mengendalikan keinginan saya.",
+   "Saya suka bertingkah gila-gilaan.",
+   "Saya tidak tertarik membahas teori.",
+   "Saya membanggakan kelebihan diri sendiri.",
+   "Saya sulit memulai tugas.",
+   "Saya tetap tenang di bawah tekanan.",
+   "Saya selalu melihat sisi baik dari keadaan.",
+   "Saya percaya pelaku kejahatan harus dihukum keras.",
+   "Saya memilih tidak memikirkan orang yang hidupnya susah.",
+   "Saya bertindak tanpa berpikir."
+  ]
+ }
+}

@@ -1,0 +1,617 @@
+{
+ "kode": "en",
+ "nama": "English",
+ "ui": {
+  "namaApp": "Clara: Personality Test",
+  "namaAppDuaBaris": "Clara\nPersonality Test",
+  "slogan": "Five sides of your personality",
+  "merek": "Clara",
+  "pengaturan": "Settings",
+  "kembali": "Back",
+  "bahasa": "Language",
+  "mulaiTes": "Start test",
+  "lihatHasilmu": "See your results",
+  "ulangiTes": "Retake test",
+  "mulaiDariAwal": "Start over",
+  "lanjutkanDari": "Continue from question {n}",
+  "babDari": "Part {a} of {b}",
+  "terjawabDari": "{a} of {b} answered",
+  "nomorDari": "{a} of {b}",
+  "angkaPernyataan": "statements",
+  "angkaMenit": "minutes",
+  "angkaBab": "parts",
+  "batal": "Cancel",
+  "mulaiUlangJudul": "Start over?",
+  "mulaiUlangIsi": "All the answers you've given will be deleted.",
+  "soalSebelumnya": "Previous question",
+  "kemajuan": "Test progress: {a} of {b}",
+  "babSelesai": "Part {n} done.",
+  "jedaIsi": "Your answers are saved. Need a break? You can pick up right here later.",
+  "lanjutKeBab": "Continue to Part {n}",
+  "hasilSiap": "Your results are ready.",
+  "semuaDihitung": "All {n} answers have been scored.",
+  "lihatHasil": "See results",
+  "hasilKamu": "Your results",
+  "kamuAdalah": "You are",
+  "kekuatan": "Strengths",
+  "titikRawan": "Watch out for",
+  "asalKarakter": "From your {sisi} score of {skor}, your most distinctive side.",
+  "asalSeimbang": "All five of your scores are in the middle range (38–62); none leans strongly.",
+  "limaSisimu": "Your five sides",
+  "tingkatRendah": "Low",
+  "tingkatSedang": "Average",
+  "tingkatTinggi": "High",
+  "skorSemantik": "{nama}: {skor} out of 100, {tingkat}",
+  "lihatRincian": "See {n} details",
+  "tutupRincian": "Hide details",
+  "bagikanStory": "Share to Story",
+  "ulangiJudul": "Retake the test?",
+  "ulangiIsi": "These results will be deleted and you'll start again from the first question.",
+  "ulangi": "Retake",
+  "caraMembaca": "How to read the numbers",
+  "kartuStory": "Story card",
+  "bagikan": "Share",
+  "menyiapkan": "Preparing…",
+  "gagalBagikan": "Couldn't share the card. Please try again.",
+  "karakterku": "My character",
+  "ajakan": "Which character are you?",
+  "cariDiPlay": "Search \"Clara: Personality Test\" on Play Store",
+  "teksBagikan": "I'm {nama}. Which character are you?",
+  "dukungLabel": "Support this app",
+  "dukungJudul": "Buy the maker a coffee",
+  "dukungIsi": "This app is free. If it helped you, you can chip in toward the cost of making it. Entirely optional, and it doesn't unlock anything.",
+  "belumAktif": "Donations aren't active in this test version yet.",
+  "modeTampilan": "Display mode",
+  "ikutiHp": "Follow phone",
+  "terang": "Light",
+  "gelap": "Dark",
+  "hapusJawaban": "Delete answers",
+  "hapusJawabanKet": "Delete all answers and results on this phone.",
+  "hapusJudul": "Delete all answers?",
+  "hapusIsi": "Your answers and results on this phone will be deleted. This can't be undone.",
+  "hapus": "Delete",
+  "tentang": "About this test",
+  "tentangKet": "How the test works and how scores are calculated.",
+  "privasi": "Privacy policy",
+  "privasiKet": "What is stored and what isn't.",
+  "versi": "Version {v}",
+  "iklan": "Ad",
+  "penafian": "Disclaimer",
+  "penafianKet": "The limits of this test and when to seek professional help.",
+  "penafianSingkat": "This test is for self-discovery, not a psychological diagnosis.",
+  "sumberIlmiah": "Scientific sources",
+  "sumberIlmiahKet": "The research this test is based on."
+ },
+ "daftar": {
+  "petunjuk": [
+   "Answer based on your everyday life.",
+   "There are no right or wrong answers.",
+   "Your answers are only stored on this phone."
+  ],
+  "sisaBab": [
+   "Three parts to go.",
+   "Two parts to go.",
+   "One part to go."
+  ],
+  "nominal": [
+   "$0.99",
+   "$2.49",
+   "$4.99"
+  ],
+  "tentang": [
+   "This test measures five sides of personality according to the Big Five model: {sisi}. Each side has six facets, giving 30 facets from {jumlah} statements.",
+   "For each statement you choose how accurately it describes you, from \"Very inaccurate\" (1) to \"Very accurate\" (5). Some statements are scored in reverse. The average answer for each side is then converted to a number from 0 to 100.",
+   "{caraBaca}",
+   "Your result character (for example The Explorer) comes from the side whose score is furthest from 50. The second furthest side becomes an extra trait. If every score is in the middle range, your character is The All-Rounder.",
+   "{sumber}"
+  ],
+  "privasi": [
+   "Your answers and results are stored only on this phone. The app has no accounts, no server, and never sends your answers anywhere.",
+   "You can delete all answers at any time in Settings, then Delete answers. Uninstalling the app also deletes everything.",
+   "This app shows ads from Google AdMob. To show ads, Google may use your device's advertising ID and technical data such as phone model and approximate location from your IP address. This data is governed by Google's privacy policy and is not stored by us. You can manage or reset your advertising ID in your phone's Settings, under Google, then Ads.",
+   "The Story card is created on this phone and is only sent to the app you choose when sharing."
+  ],
+  "penafian": [
+   "This test is meant for self-discovery. The results are not a psychological or medical diagnosis and do not replace an assessment by a psychologist or psychiatrist.",
+   "The scores are not a comparison with other people (they are not percentiles), and this app has not been through scientific validation of its own.",
+   "Do not use these results to make important decisions about other people, such as hiring or rejecting job applicants, or judging a partner.",
+   "If you are feeling overwhelmed, extremely anxious, or have thoughts of hurting yourself, please talk to someone you trust or a mental health professional, or call your local emergency number."
+  ],
+  "sumberIlmiah": [
+   "This test uses the IPIP-NEO-120: 120 public-domain statements developed and tested by John A. Johnson to measure the five sides of personality and their 30 facets.",
+   "The statements come from the International Personality Item Pool (IPIP), an open collection of personality test items started by Lewis R. Goldberg. The five sides and 30 facets follow the Five-Factor Model of Paul T. Costa and Robert R. McCrae.",
+   "This app is not affiliated with these researchers."
+  ]
+ },
+ "ringkasan": {
+  "semuaTengah": "All your sides sit in the middle. That means you're flexible, not leaning strongly toward either end.",
+  "pola": "You are {isi}.",
+  "tinggi": "high in {x}",
+  "rendah": "low in {x}",
+  "sedang": "average in {x}",
+  "pemisah": "; ",
+  "koma": ", ",
+  "dan": " and ",
+  "danAkhir": ", and "
+ },
+ "karakter": {
+  "polaNama": "The {utama}",
+  "polaNamaLengkap": "The {tambahan} {utama}",
+  "isi": {
+   "penjelajah": {
+    "nama": "Explorer",
+    "tambahan": "Imaginative",
+    "inti": "You thrive on new ideas and get bored with the same old thing.",
+    "intiAku": "I thrive on new ideas and get bored with the same old thing.",
+    "kekuatan": [
+     "Creative and full of ideas",
+     "Quick to pick up new things",
+     "Open to different points of view"
+    ],
+    "rawan": [
+     "Easily bored by routine tasks",
+     "Often has more ideas than time to act on them"
+    ]
+   },
+   "membumi": {
+    "nama": "Realist",
+    "tambahan": "Practical",
+    "inti": "You hold on to what's real and proven, not what only sounds good in theory.",
+    "intiAku": "I hold on to what's real and proven, not what only sounds good in theory.",
+    "kekuatan": [
+     "Practical and gets straight to the point",
+     "Sticks with methods that work",
+     "Not easily swept up by trends"
+    ],
+    "rawan": [
+     "Can seem rigid when new methods come along",
+     "Impatient with overly abstract talk"
+    ]
+   },
+   "perencana": {
+    "nama": "Planner",
+    "tambahan": "Organized",
+    "inti": "You like everything clear: the plan, the schedule, and who does what.",
+    "intiAku": "I like everything clear: the plan, the schedule, and who does what.",
+    "kekuatan": [
+     "Reliable at keeping promises",
+     "Neat and well organized",
+     "Persistent in finishing what you start"
+    ],
+    "rawan": [
+     "Uneasy when plans change suddenly",
+     "Sometimes too hard on yourself"
+    ]
+   },
+   "spontan": {
+    "nama": "Free Spirit",
+    "tambahan": "Spontaneous",
+    "inti": "You feel most alive going with the flow, not following a schedule.",
+    "intiAku": "I feel most alive going with the flow, not following a schedule.",
+    "kekuatan": [
+     "Flexible when things change",
+     "Adapts quickly to new situations",
+     "Relaxed and easygoing"
+    ],
+    "rawan": [
+     "Routine tasks and deadlines slip easily",
+     "Things and plans can get messy"
+    ]
+   },
+   "penghidup-suasana": {
+    "nama": "Spark",
+    "tambahan": "Cheerful",
+    "inti": "You get energy from people, and the room lights up when you arrive.",
+    "intiAku": "I get energy from people, and the room lights up when I arrive.",
+    "kekuatan": [
+     "Makes friends with new people easily",
+     "Confident speaking up and leading",
+     "Brings energy to the group"
+    ],
+    "rawan": [
+     "Gets restless when alone for too long",
+     "Sometimes speaks first, thinks later"
+    ]
+   },
+   "perenung": {
+    "nama": "Thinker",
+    "tambahan": "Quiet",
+    "inti": "You recharge in quiet places and prefer deep conversations.",
+    "intiAku": "I recharge in quiet places and prefer deep conversations.",
+    "kekuatan": [
+     "A good listener",
+     "Focused and happy working alone",
+     "Thinks carefully before speaking"
+    ],
+    "rawan": [
+     "Long, crowded events wear you out",
+     "New people may mistake you for cold"
+    ]
+   },
+   "penyayang": {
+    "nama": "Caregiver",
+    "tambahan": "Warm",
+    "inti": "You care about others and try to keep everyone getting along.",
+    "intiAku": "I care about others and try to keep everyone getting along.",
+    "kekuatan": [
+     "Warm and easy to trust",
+     "Helps without being asked",
+     "Good at calming tense moments"
+    ],
+    "rawan": [
+     "Finds it hard to say no",
+     "Often puts your own needs last"
+    ]
+   },
+   "lugas": {
+    "nama": "Straight Shooter",
+    "tambahan": "Outspoken",
+    "inti": "You say it like it is and choose honesty over just sounding nice.",
+    "intiAku": "I say it like it is and choose honesty over just sounding nice.",
+    "kekuatan": [
+     "Honest and direct",
+     "Not afraid to disagree",
+     "Hard to take advantage of"
+    ],
+    "rawan": [
+     "Your words can come across as sharp",
+     "Sometimes wins the argument but strains the relationship"
+    ]
+   },
+   "peka": {
+    "nama": "Empath",
+    "tambahan": "Sensitive",
+    "inti": "You feel everything deeply, including things others miss.",
+    "intiAku": "I feel everything deeply, including things others miss.",
+    "kekuatan": [
+     "Quick to sense a change in mood",
+     "Alert to risks",
+     "Empathizes easily with people who are struggling"
+    ],
+    "rawan": [
+     "Prone to worry and overthinking",
+     "Pressure feels heavier and lasts longer"
+    ]
+   },
+   "tenang": {
+    "nama": "Rock",
+    "tambahan": "Steady",
+    "inti": "You stay calm when everyone else starts to panic.",
+    "intiAku": "I stay calm when everyone else starts to panic.",
+    "kekuatan": [
+     "Stable under pressure",
+     "Bounces back quickly from problems",
+     "Helps people around you stay calm"
+    ],
+    "rawan": [
+     "Can seem like you don't care",
+     "Small warning signs sometimes slip by"
+    ]
+   },
+   "seimbang": {
+    "nama": "All-Rounder",
+    "tambahan": "Balanced",
+    "inti": "You don't lean toward either extreme, so you can adapt to many situations.",
+    "intiAku": "I don't lean toward either extreme, so I can adapt to many situations.",
+    "kekuatan": [
+     "Flexible in all kinds of situations",
+     "Easily understands very different people",
+     "Rarely goes to extremes"
+    ],
+    "rawan": [
+     "Sometimes hard to describe yourself",
+     "May hesitate to take a firm stand"
+    ]
+   }
+  }
+ },
+ "tes": {
+  "judul": "Five sides of your personality, built from 120 answers.",
+  "menit": "10–15",
+  "tanya": "How accurately does this describe you?",
+  "pilihan": [
+   "Very inaccurate",
+   "Inaccurate",
+   "Neutral",
+   "Accurate",
+   "Very accurate"
+  ],
+  "caraBaca": [
+   "The numbers 0 to 100 show where you sit on the answer scale: 0 means all your answers were at the very low end, 100 at the very high end. They are not percentiles, so 70 doesn't mean you scored higher than 70% of people.",
+   "Below 38 counts as low, above 62 as high, and anything in between as average. No score is better than another. Every position has its own strengths and weak spots.",
+   "This result reflects tendencies in your own answers. It is not a diagnosis. For important decisions, talk to a psychologist."
+  ],
+  "sumber": "Test items: IPIP-NEO-120 by John A. Johnson (2014), from the International Personality Item Pool, in the public domain.",
+  "grup": [
+   {
+    "nama": "Openness",
+    "sub": "",
+    "uraian": {
+     "tinggi": "You're drawn to ideas, art, and new experiences. You get bored with the same old thing and like trying approaches nobody has used before.",
+     "sedang": "You're open to new things when the benefit is clear, but you're still comfortable with what's proven.",
+     "rendah": "You prefer things that are real, practical, and tested. Very abstract ideas rarely appeal to you."
+    }
+   },
+   {
+    "nama": "Conscientiousness",
+    "sub": "",
+    "uraian": {
+     "tinggi": "You're organized, neat, and you finish what you start. People can count on your word.",
+     "sedang": "You can be organized when needed, but you're not rigid. Some things you plan, some you let flow.",
+     "rendah": "You're spontaneous and flexible. Plans, tidiness, and routine tasks don't come naturally, so deadlines and reminders from outside help a lot."
+    }
+   },
+   {
+    "nama": "Extraversion",
+    "sub": "",
+    "uraian": {
+     "tinggi": "You get energy from people and lively places. You easily start conversations and love joining in.",
+     "sedang": "You enjoy company but also need time alone. It depends on the mood and the people.",
+     "rendah": "You recharge by being alone. You prefer small, deep conversations to big crowds."
+    }
+   },
+   {
+    "nama": "Agreeableness",
+    "sub": "",
+    "uraian": {
+     "tinggi": "You're warm, trusting, and tend to give in to keep relationships smooth.",
+     "sedang": "You cooperate well, but you'll still disagree when it matters.",
+     "rendah": "You're blunt and skeptical. You care more about results and the truth than about sparing feelings."
+    }
+   },
+   {
+    "nama": "Neuroticism",
+    "sub": "",
+    "uraian": {
+     "tinggi": "You worry easily, overthink, or get swept up in your moods. Pressure feels heavier for you than for most people.",
+     "sedang": "Your emotions rise and fall within a normal range. Big pressure still gets to you, but you usually bounce back.",
+     "rendah": "You're calm and hard to shake. Problems rarely stay on your mind for long."
+    }
+   }
+  ],
+  "skala": [
+   {
+    "nama": "Imagination",
+    "arti": "How actively you daydream and play with ideas."
+   },
+   {
+    "nama": "Artistic interests",
+    "arti": "How much you value art and beauty."
+   },
+   {
+    "nama": "Emotionality",
+    "arti": "How aware you are of your own and other people's emotions."
+   },
+   {
+    "nama": "Adventurousness",
+    "arti": "How much you enjoy variety and change."
+   },
+   {
+    "nama": "Intellect",
+    "arti": "How much you like abstract ideas and complex topics."
+   },
+   {
+    "nama": "Liberalism",
+    "arti": "How ready you are to question common rules and values."
+   },
+   {
+    "nama": "Self-efficacy",
+    "arti": "How confident you are that you can do a job well."
+   },
+   {
+    "nama": "Orderliness",
+    "arti": "How neatly you keep your things and spaces."
+   },
+   {
+    "nama": "Dutifulness",
+    "arti": "How firmly you keep promises and follow rules."
+   },
+   {
+    "nama": "Achievement-striving",
+    "arti": "How hard you work beyond what is asked."
+   },
+   {
+    "nama": "Self-discipline",
+    "arti": "How easily you start tasks and stick with them."
+   },
+   {
+    "nama": "Cautiousness",
+    "arti": "How carefully you think before you act."
+   },
+   {
+    "nama": "Friendliness",
+    "arti": "How easily you become close to people."
+   },
+   {
+    "nama": "Gregariousness",
+    "arti": "How much you enjoy being around lots of people."
+   },
+   {
+    "nama": "Assertiveness",
+    "arti": "How often you lead and take charge."
+   },
+   {
+    "nama": "Activity level",
+    "arti": "How busy and fast-paced your life is."
+   },
+   {
+    "nama": "Excitement-seeking",
+    "arti": "How much you crave thrills and excitement."
+   },
+   {
+    "nama": "Cheerfulness",
+    "arti": "How often you feel happy and optimistic."
+   },
+   {
+    "nama": "Trust",
+    "arti": "How easily you believe in other people's good intentions."
+   },
+   {
+    "nama": "Morality",
+    "arti": "How straightforward you are with people, without using or tricking them."
+   },
+   {
+    "nama": "Altruism",
+    "arti": "How caring and helpful you are."
+   },
+   {
+    "nama": "Cooperation",
+    "arti": "How often you avoid conflict and don't retaliate."
+   },
+   {
+    "nama": "Modesty",
+    "arti": "How rarely you feel superior to other people."
+   },
+   {
+    "nama": "Sympathy",
+    "arti": "How moved you are by other people's hardships."
+   },
+   {
+    "nama": "Anxiety",
+    "arti": "How often you worry and imagine the worst."
+   },
+   {
+    "nama": "Anger",
+    "arti": "How easily you get irritated or angry."
+   },
+   {
+    "nama": "Low mood",
+    "arti": "How often you feel sad or unhappy with yourself."
+   },
+   {
+    "nama": "Self-consciousness",
+    "arti": "How uncomfortable you feel around people you don't know."
+   },
+   {
+    "nama": "Immoderation",
+    "arti": "How hard it is for you to resist temptations and urges."
+   },
+   {
+    "nama": "Vulnerability",
+    "arti": "How easily you panic or feel overwhelmed under pressure."
+   }
+  ],
+  "butir": [
+   "I worry about things.",
+   "I make friends easily.",
+   "I have a vivid imagination.",
+   "I trust others.",
+   "I complete tasks successfully.",
+   "I get angry easily.",
+   "I love large parties.",
+   "I believe in the importance of art.",
+   "I use others for my own ends.",
+   "I like to tidy up.",
+   "I often feel blue.",
+   "I take charge.",
+   "I experience my emotions intensely.",
+   "I love to help others.",
+   "I keep my promises.",
+   "I find it difficult to approach others.",
+   "I am always busy.",
+   "I prefer variety to routine.",
+   "I love a good fight.",
+   "I work hard.",
+   "I go on binges.",
+   "I love excitement.",
+   "I love to read challenging material.",
+   "I believe that I am better than others.",
+   "I am always prepared.",
+   "I panic easily.",
+   "I radiate joy.",
+   "I tend to vote for liberal political candidates.",
+   "I sympathize with the homeless.",
+   "I jump into things without thinking.",
+   "I fear for the worst.",
+   "I feel comfortable around people.",
+   "I enjoy wild flights of fantasy.",
+   "I believe that others have good intentions.",
+   "I excel in what I do.",
+   "I get irritated easily.",
+   "I talk to a lot of different people at parties.",
+   "I see beauty in things that others might not notice.",
+   "I cheat to get ahead.",
+   "I often forget to put things back in their proper place.",
+   "I dislike myself.",
+   "I try to lead others.",
+   "I feel others' emotions.",
+   "I am concerned about others.",
+   "I tell the truth.",
+   "I am afraid to draw attention to myself.",
+   "I am always on the go.",
+   "I prefer to stick with things that I know.",
+   "I yell at people.",
+   "I do more than what's expected of me.",
+   "I rarely overindulge.",
+   "I seek adventure.",
+   "I avoid philosophical discussions.",
+   "I think highly of myself.",
+   "I carry out my plans.",
+   "I become overwhelmed by events.",
+   "I have a lot of fun.",
+   "I believe that there is no absolute right and wrong.",
+   "I feel sympathy for those who are worse off than myself.",
+   "I make rash decisions.",
+   "I am afraid of many things.",
+   "I avoid contacts with others.",
+   "I love to daydream.",
+   "I trust what people say.",
+   "I handle tasks smoothly.",
+   "I lose my temper.",
+   "I prefer to be alone.",
+   "I do not like poetry.",
+   "I take advantage of others.",
+   "I leave a mess in my room.",
+   "I am often down in the dumps.",
+   "I take control of things.",
+   "I rarely notice my emotional reactions.",
+   "I am indifferent to the feelings of others.",
+   "I break rules.",
+   "I only feel comfortable with friends.",
+   "I do a lot in my spare time.",
+   "I dislike changes.",
+   "I insult people.",
+   "I do just enough work to get by.",
+   "I easily resist temptations.",
+   "I enjoy being reckless.",
+   "I have difficulty understanding abstract ideas.",
+   "I have a high opinion of myself.",
+   "I waste my time.",
+   "I feel that I'm unable to deal with things.",
+   "I love life.",
+   "I tend to vote for conservative political candidates.",
+   "I am not interested in other people's problems.",
+   "I rush into things.",
+   "I get stressed out easily.",
+   "I keep others at a distance.",
+   "I like to get lost in thought.",
+   "I distrust people.",
+   "I know how to get things done.",
+   "I am not easily annoyed.",
+   "I avoid crowds.",
+   "I do not enjoy going to art museums.",
+   "I obstruct others' plans.",
+   "I leave my belongings around.",
+   "I feel comfortable with myself.",
+   "I wait for others to lead the way.",
+   "I don't understand people who get emotional.",
+   "I take no time for others.",
+   "I break my promises.",
+   "I am not bothered by difficult social situations.",
+   "I like to take it easy.",
+   "I am attached to conventional ways.",
+   "I get back at others.",
+   "I put little time and effort into my work.",
+   "I am able to control my cravings.",
+   "I act wild and crazy.",
+   "I am not interested in theoretical discussions.",
+   "I boast about my virtues.",
+   "I have difficulty starting tasks.",
+   "I remain calm under pressure.",
+   "I look at the bright side of life.",
+   "I believe that we should be tough on crime.",
+   "I try not to think about the needy.",
+   "I act without thinking."
+  ]
+ }
+}
